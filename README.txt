@@ -6,4 +6,4 @@ This line was added after the inital commit.
 
 A second change.
 
-
+A third change. (Git username tweaked to match Github).
